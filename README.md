@@ -2,7 +2,7 @@
 10 mock txns on Solana's devnet, aiming to calculate time and fees required
 
 ## To reproduce:
-0 - Make sure to follow instruction in this page to install solana and anchor CLIs: https://book.anchor-lang.com/getting_started/installation.html
+0 - Make sure to follow instructions in this page to install solana and anchor CLIs: https://book.anchor-lang.com/getting_started/installation.html
 
 1 - Run `yarn`.
 
