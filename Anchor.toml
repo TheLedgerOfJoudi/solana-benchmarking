@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.localnet]
+solana_benchmarking = "9AvbRjpyRtJmV3GPBWS6caURYhrcStKf9a9oe1t17aYN"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
