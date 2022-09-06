@@ -61,7 +61,7 @@ describe("solana-benchmarking", () => {
 
 
 
-    console.log("The process took is done, it lasted for "
+    console.log("The process is done, it lasted for "
       + (timeAtFinish - timeAtStart).toString()
       + " seconds, and each txn costed "
       + fees / responses

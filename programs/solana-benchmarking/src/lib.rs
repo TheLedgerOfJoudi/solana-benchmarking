@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("8CfU4eWx2d8vRxPDzQ1MPUvzqtJHfXonq4yXNcUHPen2");
+declare_id!("3EPXr7MZTxfCWvKZoVCCcfJABwDjsFBaKMQQjtU2pRjb");
 
 #[program]
 pub mod solana_benchmarking {
